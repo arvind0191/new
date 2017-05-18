@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/arvind/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/arvind/AndroidStudioProjects/Contact/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.6.0_8fd1e53367cfe40743584d90759cc48598ba266a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arvind/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.2.0/41e67dba73c3347e4503761642c39d0e06ca1f2/retrofit-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="/Users/arvind/AndroidStudioProjects/Contact/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.2.0_9b075ba59b68df2ff9b0d0f29a34f03bf781ba27/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arvind/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.2.0/a09926806199499a20b2f5168779499abfa33342/converter-gson-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a09926806199499a20b2f5168779499abfa33342">
+        <dex dex="/Users/arvind/AndroidStudioProjects/Contact/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.2.0_5c864090da9f30414acb90a1cf9e1a996ee9f108/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arvind/AndroidStudioProjects/Contact/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4352cc231aee7d7c6de6fe53c53c7465ef68f3b5">
+        <dex dex="/Users/arvind/AndroidStudioProjects/Contact/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_eba9c16e04e0e55851be54c147cbdb05819a6970/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arvind/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.11.0/840897fcd7223a8143f1d9b6f69714e7be34fd50/okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/Users/arvind/AndroidStudioProjects/Contact/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.11.0_1f5896f1ab0cdda4aebe35835372ada678e2d398/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arvind/AndroidStudioProjects/Contact/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/arvind/AndroidStudioProjects/Contact/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2758f30055cc75bc549adc76caad321bfffdd6b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/arvind/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/arvind/AndroidStudioProjects/Contact/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.7_faf6d15f2704dc125f6c15142dd06ba201559f40/classes.dex" />
+    </item>
+
+</items>

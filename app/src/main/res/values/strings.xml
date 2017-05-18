@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fast Scroll Demo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">About</string>
+    <string name="action_search">Search</string>
+</resources>
